@@ -7,13 +7,6 @@ Sou apaixonado(a) por tecnologia e gosto de compartilhar conhecimento através d
 
 🚀 Atualmente estudo e trabalho com desenvolvimento web, criando aplicações modernas, performáticas e bem estruturadas.
 
----
-
-## 🌐 Onde me encontrar
-- 💼 LinkedIn: [Seu LinkedIn]([https://linkedin.com/in/seuusuario](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-cruz-1436a4294/))
-- 💻 GitHub: [Seu GitHub]([https://github.com/seuusuario](https://github.com/juliospcruz))
-
----
 
 ## 🚀 Linguagens e Tecnologias
 
@@ -23,17 +16,6 @@ Sou apaixonado(a) por tecnologia e gosto de compartilhar conhecimento através d
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliospcruz&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliospcruz&layout=compact&theme=tokyonight)
-
-</div>
-
----
 
 ## 💡 Sobre mim
 
