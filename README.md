@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full Stack**
 
-Me chamo **Júlio**, tenho **29** e sou natural de **São Paulo/AP**. Sou formado(a) em **Ciência da Computação** e atualmente atuo como **Analista de Sistema**.  
+Me chamo **Júlio**, tenho **29** e sou natural de **São Paulo/SP**. Sou formado(a) em **Ciência da Computação** e atualmente atuo como **Analista de Sistema**.  
 Sou apaixonado(a) por tecnologia e gosto de compartilhar conhecimento através de projetos, estudos e conteúdos sobre desenvolvimento de software.
 
 🚀 Atualmente estudo e trabalho com desenvolvimento web, criando aplicações modernas, performáticas e bem estruturadas.
