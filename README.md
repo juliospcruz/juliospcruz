@@ -11,7 +11,7 @@ Sou apaixonado(a) por tecnologia e gosto de compartilhar conhecimento através d
 ## 🚀 Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,laravel,nodejs,git,github,mysql,postgres,linux" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,ts,react,php,laravel,nodejs,git,github,mysql,postgres,linux" />
 </p>
 
 ---
